@@ -19,3 +19,14 @@
 - 완전탐색
 
 
+### BOJ
+- [달팽이](https://www.acmicpc.net/problem/1913) - 승재
+- [배열 돌리기](https://www.acmicpc.net/problem/17276) - 아정
+- [분수찾기](https://www.acmicpc.net/problem/1193) - 동희
+- [배열 돌리기 1](https://www.acmicpc.net/problem/16926) - 성진
+- [신입 사원](https://www.acmicpc.net/problem/2659) - 주희
+
+### Programmers
+- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) - 준환
+
+
