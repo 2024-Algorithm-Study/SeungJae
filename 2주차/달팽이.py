@@ -13,7 +13,7 @@ def snail(N, X):
 
     x, y = N//2, N//2
     step = 1 # 채울 숫자
-    roop = 2 
+    roop = 2 # 2씩 증가
 
     # 안쪽부터 한 겹씩 채우기
     for i in range(N//2):
