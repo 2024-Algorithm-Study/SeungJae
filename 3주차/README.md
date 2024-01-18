@@ -34,7 +34,7 @@
 
 ### BOJ
 
-- [괄호](https://www.acmicpc.net/problem/9012) - 승재
+- [괄호](https://www.acmicpc.net/problem/9012)
 
 
 
