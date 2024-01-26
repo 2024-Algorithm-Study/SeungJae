@@ -17,3 +17,4 @@
 ### BOJ
 
 - [로또](https://www.acmicpc.net/problem/6603) - DONE
+- [스타트와 링크](https://www.acmicpc.net/problem/14889) - DONE
