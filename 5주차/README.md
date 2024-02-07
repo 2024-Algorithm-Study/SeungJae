@@ -38,6 +38,10 @@ visited = [False] * N
 - 방문 처리 배열 -> visited
 - 그래프 -> 2차원 배열
 
+### BOJ
+
+- [단지번호붙이기](https://www.acmicpc.net/problem/2667) - DONE
+
     
 
 
