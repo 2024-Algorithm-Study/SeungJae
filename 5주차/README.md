@@ -41,6 +41,7 @@ visited = [False] * N
 ### BOJ
 
 - [단지번호붙이기](https://www.acmicpc.net/problem/2667) - DONE
+- [바이러스](https://www.acmicpc.net/problem/2606) - DONE
 
     
 
