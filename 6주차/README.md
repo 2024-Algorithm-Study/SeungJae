@@ -39,3 +39,7 @@ visited = [False] * (N+1)
 ```
 <br>
 
+### BOJ
+
+- [유기농 배추](https://www.acmicpc.net/problem/1012) - DONE
+
